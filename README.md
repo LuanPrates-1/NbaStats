@@ -1,0 +1,2 @@
+Neste projeto, desenvolvemos um site utilizando PHP e MySQL com o objetivo de cadastrar jogadores e visualizar suas estatísticas. Aplicamos parte do modelo CRUD (Create, Read e Update) para gerenciar os dados dos jogadores,
+permitindo o registro, a visualização e a edição das informações. O sistema conta com validações básicas de formulários e integração com o banco de dados, oferecendo uma experiência funcional ao usuário
